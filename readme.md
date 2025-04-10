@@ -7,6 +7,8 @@ Highcharts JS is a JavaScript charting library based on SVG, with fallbacks to V
 * Issues: [Repo guidelines](repo-guidelines.md)
 
 ## Download and install Highcharts
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fhighcharts.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fhighcharts?ref=badge_shield)
+
 This is the *working repo* for Highcharts. If you simply want to include Highcharts into a project, use the [distribution package](https://www.npmjs.com/package/highcharts) instead, or read the [download page](http://www.highcharts.com/download). Please note that there are several ways to use Highcharts. For general installation instructions, see [the docs](http://www.highcharts.com/docs/getting-started/installation).
 
 ### Use our CDN
@@ -200,3 +202,7 @@ gulp
 Run in this `highcharts` repository the doc generator with
 `npx gulp jsdoc-watch`, which also starts a new server with the generated API
 documentation.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fhighcharts.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fhighcharts?ref=badge_large)
